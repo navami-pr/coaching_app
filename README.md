@@ -34,3 +34,15 @@ Finished in 6.76 seconds (files took 5.77 seconds to load)
 `bundle exec rubocop`
 
 ```
+45 files inspected, no offenses detected
+```
+
+`bundle exec brakeman`
+
+```
+Controllers: 4
+Models: 4
+Templates: 1
+Errors: 0
+Security Warnings: 0
+```
